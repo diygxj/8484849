@@ -76,12 +76,12 @@ body {
 }
 html, body {
   line-height: 1.5;
-  color: #FBFCEE;
+  color: #0a764d;
   font-family: "Roboto", sans-serif;
   font-size: clamp(12px, 5vw, 16px);
   font-weight: 400;
   font-style: normal;
-  background-color: #090520;
+  background-color: #0a764d;
 }
 
 ._wrapper {
